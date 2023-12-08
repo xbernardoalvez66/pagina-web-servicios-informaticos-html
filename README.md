@@ -5,4 +5,4 @@
 ## link del proyecto
  ------
 
- <a href="https://xbernardoalvez66.github.io/pagina-web-servicios-informaticos-html/pagina-web-servicios-informaticos-html/index.html">àgina web servicios informaticos</a>
+ <a href="https://xbernardoalvez66.github.io/pagina-web-servicios-informaticos-html/pagina-web-servicios-informaticos-html/index.html">pagina web servicios informaticos</a>
